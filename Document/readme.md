@@ -1,0 +1,1 @@
+This project is developed using ServiceNow to automate student and teacher data management. It includes custom tables, structured forms, client scripts for validation, and workflow automation for admission approvals. The system helps reduce manual work and improves efficiency in managing educational records.
